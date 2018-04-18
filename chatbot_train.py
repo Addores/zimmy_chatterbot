@@ -8,8 +8,8 @@ bot=ChatBot('bot')
 bot.set_trainer(ListTrainer)
 
 #Path of where the dataset is
-for files in os.listdir('C:/Users/Isabel Elavoko\Desktop\AIG\Chatbot\Dataset\chatterbot-corpus-master\chatterbot_corpus\data\oshikwanyama/'):
-    data=open('C:/Users/Isabel Elavoko\Desktop\AIG\Chatbot\Dataset\chatterbot-corpus-master\chatterbot_corpus\data\oshikwanyama/' + files ,'r').readlines()
+for files in os.listdir('C:/Users/my_user_name\Desktop\AIG\Chatbot\Dataset\chatterbot-corpus-master\chatterbot_corpus\data\oshikwanyama/'):
+    data=open('C:/Users/Users/my_user_name\Desktop\AIG\Chatbot\Dataset\chatterbot-corpus-master\chatterbot_corpus\data\oshikwanyama/' + files ,'r').readlines()
     bot.train(data)
 	
 
