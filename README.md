@@ -1,9 +1,15 @@
 # zimmy_chatterbot
 AIG710S - Computer Science project. Based of the chatterbot engine for conversations
 
+---------------------------------------------------------------------------------------------------------------------------------------
+*Introduction*
+
+Based of the chatterbot engine.
+
+For better understanding, please refer to <a href='https://chatterbot.readthedocs.io/en/stable/'>documentation</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-Requirements
+*Requirements*
 
 » Download chatterbot
 
@@ -20,7 +26,7 @@ Requirements
         ('your/machine/path/Chatbot\Dataset\chatterbot-corpus-master\chatterbot_corpus\data\oshikwanyama/')
         
 ---------------------------------------------------------------------------------------------------------------------------------------
-Train and Run
+*Train and Run*
 
 » Train program
 
